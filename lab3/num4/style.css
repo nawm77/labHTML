@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 50px 40px 0 40px;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    /*padding: 20px;*/
+    border-bottom: 1px solid #ccc;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+nav {
+    display: inline-block;
+    justify-content: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li:last-child {
+    margin-right: 0;
+}
+
+nav ul li a {
+    color: seagreen;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+main h1{
+    font-weight: lighter;
+    font-family: Georgia, serif;
+}
+main p{
+    font-size: 14px;
+}
+
+main{
+
+}
