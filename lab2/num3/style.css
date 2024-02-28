@@ -10,6 +10,7 @@ body{
 table tr:hover td {
     background-color: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
+    border-color: black;
 }
 
 tr:nth-child(odd),

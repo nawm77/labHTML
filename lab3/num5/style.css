@@ -1,28 +1,3 @@
-/*body{*/
-/*    background-color: lightgray;*/
-/*}*/
-/*ul {*/
-/*    list-style-type: none; !* Убираем маркеры списка *!*/
-/*    padding: 0; !* Убираем отступы у списка *!*/
-/*    margin-bottom: 50px;*/
-/*}*/
-
-/*li {*/
-/*    display: inline-block;*/
-/*    align-items: center; !* Выравнивание содержимого по вертикали *!*/
-/*    border: 0.4rem solid black;*/
-/*    margin-bottom: auto;*/
-/*    max-width: 60%;*/
-/*    max-height: 60%;*/
-/*}*/
-
-/*img {*/
-/*    display: block; !* Каждая картинка будет блочным элементом *!*/
-/*    width: auto; !* Картинка занимает всю доступную ширину *!*/
-/*    height: auto;*/
-/*    margin: 10px 10px 10px 10px;*/
-/*}*/
-
 body{
     margin-left: 10%;
     margin-right: 10%;
