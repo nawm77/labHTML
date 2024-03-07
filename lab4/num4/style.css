@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    background-color: rgb(238, 238, 238);
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container {
+    font-size: 18px;
+    width: 25%;
+    height: 15%;
+    padding: 10px;
+    display: flex;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    flex-flow: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    flex-direction: column;
+    margin: 0;
+    border-radius: 10px;
+}
+
+.container.p{
+    padding: 0;
+}
